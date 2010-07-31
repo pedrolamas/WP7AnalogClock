@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PedroLamas.WP7.AnalogClock")]
+[assembly: AssemblyTitle("Windows Phone 7 Analog Clock")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft IT")]
-[assembly: AssemblyProduct("PedroLamas.WP7.AnalogClock")]
-[assembly: AssemblyCopyright("Copyright © Microsoft IT 2009")]
+[assembly: AssemblyCompany("Pedro Lamas")]
+[assembly: AssemblyProduct("Windows Phone 7 Analog Clock")]
+[assembly: AssemblyCopyright("Copyright ©2010 Pedro Lamas")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
