@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.0">
-  <App xmlns="" ProductID="{cecc4267-b6f1-4e42-ad80-ab38bce9bc99}" Title="PedroLamas.WP7.AnalogClock" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="PedroLamas.WP7.AnalogClock author" Description="Sample description" Publisher="PedroLamas.WP7.AnalogClock">
+  <App xmlns="" ProductID="{cecc4267-b6f1-4e42-ad80-ab38bce9bc99}" Title="Analog Clock" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="PedroLamas.WP7.AnalogClock author" Description="Sample description" Publisher="PedroLamas.WP7.AnalogClock">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
